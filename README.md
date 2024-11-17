@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 #### Database
