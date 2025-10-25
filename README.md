@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I graduated from Hanoi University of Science and Technology
 - 🌱 I'm currently working in the field of Software Engineering
-- 🏠 I have experience working with Home IoT systems.
+- 🏠 I have experience working with Elearning System (LMS), Home IoT systems.
 - 📫 How to reach me: xuandat3011@gmail.com
 - ⚡ Fun fact: When you want to give up, remember why you started
 
